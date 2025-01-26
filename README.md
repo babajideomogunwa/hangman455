@@ -11,7 +11,7 @@
 8. [Milestone 4](#section-4)
 9.     [Create the Game Class](##subsection-4)
 10. [Milestone 5](#section-5)
-11.    [Game starts!](##subsection-5)
+11.     [Game starts!](##subsection-5)
 
 ## Introduction
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
