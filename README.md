@@ -7,11 +7,11 @@
 4. [Milestone 2](#section-2)
 5.     [Create variables for the game](##subsection-2)
 6. [Milestone 3](#section-3)
-       [Check if letter is in Random word] (##subsection-3)
+       [Check if letter is in Random word](##subsection-3)
 7. [Milestone 4](#section-4)
-       [Create the Game Class] (##subsection-4)
+       [Create the Game Class](##subsection-4)
 8. [Milestone 5](#section-5)
-       [Game starts!] (##subsection-5)
+       [Game starts!](##subsection-5)
 
 ## Introduction
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
