@@ -3,15 +3,16 @@
 # Table of Contents
 1. [Introduction](#introduction)
 2. [Milestone 1](#section-1)
-3.     [Set up GitHub](##subsection-1)
-4. [Milestone 2](#section-2)
-5.     [Create variables for the game](##subsection-2)
-6. [Milestone 3](#section-3)
-7.     [Check if letter is in Random word](##subsection-3)
-8. [Milestone 4](#section-4)
-9.     [Create the Game Class](##subsection-4)
-10. [Milestone 5](#section-5)
-11.     [Game starts!](##subsection-5)
+    -   [Set up GitHub](##subsection-1)
+3. [Milestone 2](#section-2)
+    -   [Create variables for the game](##subsection-2)
+4. [Milestone 3](#section-3)
+    -   [Check if letter is in Random word](##subsection-3)
+5. [Milestone 4](#section-4)
+    -   [Create the Game Class](##subsection-4)
+6. [Milestone 5](#section-5)
+    -   [Game starts!](##subsection-5)
+    -   [How to run the game](##subsection-5)
 
 ## Introduction
 Hangman is a classic game in which a player thinks of a word and the other player tries to guess that word within a certain amount of attempts.
@@ -42,6 +43,17 @@ Using OOP knowledge to create the game class to develop the hangman game
 Putting it all together
 ### Game starts!
 Class is now prepared and game starts!
+### How to Run the Game
+
+```Bash
+# To run the game, run the milestone_5.py script
+python milestone_5.py
+```
+Example of a python code: 
+```Python
+def add(a, b):
+    return a + b
+```
 
 
 
